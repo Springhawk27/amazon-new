@@ -1,11 +1,11 @@
+// Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyA9QKxeRCIkJqCXnJMwzetm5Ou9NJupWv8",
-    authDomain: "ema-john-simple.firebaseapp.com",
-    databaseURL: "https://ema-john-simple.firebaseio.com",
-    projectId: "ema-john-simple",
-    storageBucket: "ema-john-simple.appspot.com",
-    messagingSenderId: "753249389312",
-    appId: "1:753249389312:web:2539987630fc0a25b201e5"
+    apiKey: "AIzaSyADv_5g7XsXgy8zqdpGwYAwBADIkfMKBLA",
+    authDomain: "simple-12afe.firebaseapp.com",
+    projectId: "simple-12afe",
+    storageBucket: "simple-12afe.appspot.com",
+    messagingSenderId: "166621625756",
+    appId: "1:166621625756:web:3e8b12392e1c21ba4e9c59"
 };
 
 export default firebaseConfig;
